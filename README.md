@@ -107,7 +107,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured PROJECTS 
 
 <table>
 <tr>
